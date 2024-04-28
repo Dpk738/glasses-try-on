@@ -1,0 +1,38 @@
+{
+    "1713937099568245:263729": {
+        "IFileManager": {
+            "path": "Files/File_1713937099568245_263729.js"
+        }
+    },
+    "1713937099570814:263732": {
+        "IResourceController": {
+            "name": "CommandHandler",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099570827:263733",
+            "fileId": "1713937099568245:263729",
+            "publicId": "1713937099576585:263743",
+            "expected_hash": "5342c9d400a6653ea1b925b42cbd3385"
+        },
+        "IResourceManager": {
+            "uid": "1713937099570827:263733",
+            "name": "Files/File_1713937099568245_263729.js",
+            "flags": 1
+        }
+    },
+    "1713937099570827:263733": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099576585:263743": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/CommandHandler.js",
+                "hash": "5342c9d400a6653ea1b925b42cbd3385"
+            }
+        }
+    }
+}

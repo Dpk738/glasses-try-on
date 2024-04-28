@@ -1,0 +1,115 @@
+{
+    "1713932802505045:12214": {
+        "IFileManager": {
+            "path": "Files/File_1713932802505045_12214.mesh"
+        }
+    },
+    "1713932802509079:12215": {
+        "IResourceController": {
+            "name": "Object009",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932802525755:12219",
+            "fileId": "1713932802505045:12214",
+            "publicId": "1713932802542946:12233",
+            "expected_hash": "4377b91e2b3cd4ae052b1694621c3f01",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713932802525755:12219",
+            "name": "Files/File_1713932802505045_12214.mesh",
+            "flags": 1
+        }
+    },
+    "1713932802525755:12219": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5256",
+                "compressedSize": "4359",
+                "extension": "mesh",
+                "originalRAM": "5256",
+                "originalSize": "4359",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713932802535487:12232"
+        }
+    },
+    "1713932802535487:12232": {
+        "IFileManager": {
+            "path": "Files/File_1713932802535487_12232.mesh"
+        }
+    },
+    "1713932802542946:12233": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Cat/Meshes/Object009.mesh",
+                "hash": "4377b91e2b3cd4ae052b1694621c3f01"
+            }
+        }
+    }
+}

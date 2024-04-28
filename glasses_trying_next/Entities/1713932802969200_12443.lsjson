@@ -1,0 +1,115 @@
+{
+    "1713932802965860:12442": {
+        "IFileManager": {
+            "path": "Files/File_1713932802965860_12442.mesh"
+        }
+    },
+    "1713932802969200:12443": {
+        "IResourceController": {
+            "name": "Circle001",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932802986029:12447",
+            "fileId": "1713932802965860:12442",
+            "publicId": "1713932803002258:12459",
+            "expected_hash": "1ebc9a5d3f60147bd745d276347f5fc3",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713932802986029:12447",
+            "name": "Files/File_1713932802965860_12442.mesh",
+            "flags": 1
+        }
+    },
+    "1713932802986029:12447": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "3216",
+                "compressedSize": "2335",
+                "extension": "mesh",
+                "originalRAM": "3216",
+                "originalSize": "2335",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713932802995288:12458"
+        }
+    },
+    "1713932802995288:12458": {
+        "IFileManager": {
+            "path": "Files/File_1713932802995288_12458.mesh"
+        }
+    },
+    "1713932803002258:12459": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Round/Meshes/Circle001.mesh",
+                "hash": "1ebc9a5d3f60147bd745d276347f5fc3"
+            }
+        }
+    }
+}

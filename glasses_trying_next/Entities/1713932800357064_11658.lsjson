@@ -1,0 +1,39 @@
+{
+    "1713932800354645:11657": {
+        "IFileManager": {
+            "path": "Files/File_1713932800354645_11657"
+        }
+    },
+    "1713932800357064:11658": {
+        "IResourceController": {
+            "name": "aviator_frame_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932800357070:11659",
+            "fileId": "1713932800354645:11657",
+            "originalId": "1713932800380837:11665",
+            "publicId": "1713932800567517:11672",
+            "expected_hash": "4de5e7763dada0d0fcfb7b077d076277"
+        },
+        "IResourceManager": {
+            "uid": "1713932800357070:11659",
+            "name": "Files/File_1713932800354645_11657",
+            "flags": 1
+        }
+    },
+    "1713932800380837:11665": {
+        "IFileManager": {
+            "path": "Files/File_1713932800380837_11665.lsmat"
+        }
+    },
+    "1713932800567517:11672": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Aviator/aviator_frame_material.lsmat",
+                "hash": "051131d7f120d5e303bb827fe830ddd9"
+            }
+        }
+    }
+}

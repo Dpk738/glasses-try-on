@@ -1,0 +1,39 @@
+{
+    "1713932793998516:9907": {
+        "IFileManager": {
+            "path": "Files/File_1713932793998516_9907"
+        }
+    },
+    "1713932794001431:9909": {
+        "IResourceController": {
+            "name": "Frame",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932794001453:9910",
+            "fileId": "1713932793998516:9907",
+            "originalId": "1713932794026408:9914",
+            "publicId": "1713932794320826:9925",
+            "expected_hash": "d7039ab156ff26f1f2a0565d92b23072"
+        },
+        "IResourceManager": {
+            "uid": "1713932794001453:9910",
+            "name": "Files/File_1713932793998516_9907",
+            "flags": 1
+        }
+    },
+    "1713932794026408:9914": {
+        "IFileManager": {
+            "path": "Files/File_1713932794026408_9914.lsmat"
+        }
+    },
+    "1713932794320826:9925": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Funky/Frame.lsmat",
+                "hash": "f9c7fdeccfe5db9ed641ccb7feda6cc8"
+            }
+        }
+    }
+}

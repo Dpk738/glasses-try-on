@@ -1,0 +1,22 @@
+{
+    "1713932798578357:11128": {
+        "IResourceController": {
+            "name": "Ners",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932798578610:11129",
+            "resources": [
+                "1713932798560244:11116"
+            ]
+        }
+    },
+    "1713932798578610:11129": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/Ners"
+            }
+        }
+    }
+}

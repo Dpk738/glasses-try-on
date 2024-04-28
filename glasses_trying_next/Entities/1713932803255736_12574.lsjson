@@ -1,0 +1,115 @@
+{
+    "1713932803252254:12573": {
+        "IFileManager": {
+            "path": "Files/File_1713932803252254_12573.mesh"
+        }
+    },
+    "1713932803255736:12574": {
+        "IResourceController": {
+            "name": "aviator_lens",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932803275178:12578",
+            "fileId": "1713932803252254:12573",
+            "publicId": "1713932803293554:12590",
+            "expected_hash": "7ca0d663cb86009d8091668c49cb49f2",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713932803275178:12578",
+            "name": "Files/File_1713932803252254_12573.mesh",
+            "flags": 1
+        }
+    },
+    "1713932803275178:12578": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4896",
+                "compressedSize": "4328",
+                "extension": "mesh",
+                "originalRAM": "4896",
+                "originalSize": "4328",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713932803283238:12589"
+        }
+    },
+    "1713932803283238:12589": {
+        "IFileManager": {
+            "path": "Files/File_1713932803283238_12589.mesh"
+        }
+    },
+    "1713932803293554:12590": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Aviator/Meshes/aviator_lens.mesh",
+                "hash": "7ca0d663cb86009d8091668c49cb49f2"
+            }
+        }
+    }
+}

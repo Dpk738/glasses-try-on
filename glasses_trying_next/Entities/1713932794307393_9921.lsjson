@@ -1,0 +1,27 @@
+{
+    "1713932794307393:9921": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932794307896:9922",
+            "resources": [
+                "1713932794313120:9923",
+                "1713932795232154:10293",
+                "1713932796579959:10431",
+                "1713932797095072:10457",
+                "1713932799515326:11220",
+                "1713932801288107:11755"
+            ]
+        }
+    },
+    "1713932794307896:9922": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials"
+            }
+        }
+    }
+}

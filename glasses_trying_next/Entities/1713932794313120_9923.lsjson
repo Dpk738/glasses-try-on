@@ -1,0 +1,26 @@
+{
+    "1713932794313120:9923": {
+        "IResourceController": {
+            "name": "Funky",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932794313472:9924",
+            "resources": [
+                "1713932794001431:9909",
+                "1713932794372836:9932",
+                "1713932795320637:10305",
+                "1713932797379297:10561",
+                "1713932797819708:10978"
+            ]
+        }
+    },
+    "1713932794313472:9924": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Funky"
+            }
+        }
+    }
+}

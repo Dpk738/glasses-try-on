@@ -1,0 +1,22 @@
+{
+    "1713932797254097:10499": {
+        "IResourceController": {
+            "name": "LensReflectionParams",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932797254360:10500",
+            "resources": [
+                "1713932797236140:10485"
+            ]
+        }
+    },
+    "1713932797254360:10500": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/LensReflectionParams"
+            }
+        }
+    }
+}

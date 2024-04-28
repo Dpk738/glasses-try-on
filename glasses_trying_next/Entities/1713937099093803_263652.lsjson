@@ -1,0 +1,38 @@
+{
+    "1713937099091456:263651": {
+        "IFileManager": {
+            "path": "Files/File_1713937099091456_263651.js"
+        }
+    },
+    "1713937099093803:263652": {
+        "IResourceController": {
+            "name": "Behavior",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099093826:263653",
+            "fileId": "1713937099091456:263651",
+            "publicId": "1713937099416080:263665",
+            "expected_hash": "e60f3cc300118a04454e81481853f685"
+        },
+        "IResourceManager": {
+            "uid": "1713937099093826:263653",
+            "name": "Files/File_1713937099091456_263651.js",
+            "flags": 1
+        }
+    },
+    "1713937099093826:263653": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099416080:263665": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/Behavior.js",
+                "hash": "e60f3cc300118a04454e81481853f685"
+            }
+        }
+    }
+}

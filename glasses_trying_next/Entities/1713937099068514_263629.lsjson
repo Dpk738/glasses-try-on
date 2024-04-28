@@ -1,0 +1,26 @@
+{
+    "1713937099068514:263629": {
+        "IResourceController": {
+            "name": "System Voice Command Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713937099069484:263630",
+            "resources": [
+                "1713937099068054:263625",
+                "1713937099079032:263645",
+                "1713937099562325:263720",
+                "1713937099586674:263759",
+                "1713937099611320:263790"
+            ]
+        }
+    },
+    "1713937099069484:263630": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1713937099071363:263631": {
+        "IFileManager": {
+            "path": "Files/File_1713937099071363_263631.js"
+        }
+    },
+    "1713937099073908:263632": {
+        "IResourceController": {
+            "name": "SpeechRecogition",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099074558:263633",
+            "fileId": "1713937099071363:263631",
+            "publicId": "1713937099089064:263647",
+            "expected_hash": "5a94a914d50161f2c340dc0766069ce8"
+        },
+        "IResourceManager": {
+            "uid": "1713937099074558:263633",
+            "name": "Files/File_1713937099071363_263631.js",
+            "flags": 1
+        }
+    },
+    "1713937099074558:263633": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099089064:263647": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/SpeechRecogition.js",
+                "hash": "5a94a914d50161f2c340dc0766069ce8"
+            }
+        }
+    }
+}

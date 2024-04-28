@@ -1,0 +1,24 @@
+{
+    "1713937099611320:263790": {
+        "IResourceController": {
+            "name": "Info Card [DELETE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713937099611464:263791",
+            "resources": [
+                "1713937099612018:263792",
+                "1713937099628826:263811",
+                "1713937099795905:263852"
+            ]
+        }
+    },
+    "1713937099611464:263791": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Info Card [DELETE_ME]"
+            }
+        }
+    }
+}

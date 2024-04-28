@@ -1,0 +1,79 @@
+{
+    "1713937099598903:263775": {
+        "IFileManager": {
+            "path": "Files/File_1713937099598903_263775.pvr"
+        }
+    },
+    "1713937099601240:263776": {
+        "IResourceController": {
+            "name": "info_card",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099601456:263777",
+            "fileId": "1713937099598903:263775",
+            "originalId": "1713937099601681:263782",
+            "publicId": "1713937099620209:263795",
+            "expected_hash": "355216e2aeff3b964c151e20c2759aa7",
+            "additional": {
+                "originHash": "a6e321bed066b22e0e725b65c13f0a6a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713937099601456:263777",
+            "name": "Files/File_1713937099598903_263775.jpg",
+            "flags": 1
+        }
+    },
+    "1713937099601456:263777": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a6e321bed066b22e0e725b65c13f0a6a"
+                    },
+                    "v": "1713937101248302:267492"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "320000",
+                "compressedSize": "6116",
+                "extension": "png",
+                "originalRAM": "2560000",
+                "originalSize": "9940",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1713937099612873:263794"
+        }
+    },
+    "1713937099601681:263782": {
+        "IFileManager": {
+            "path": "Files/File_1713937099601681_263782.png"
+        }
+    },
+    "1713937099612873:263794": {
+        "IFileManager": {
+            "path": "Files/File_1713937099612873_263794.png"
+        }
+    },
+    "1713937099620209:263795": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Info Card [DELETE_ME]/Textures/info_card.png",
+                "hash": "a6e321bed066b22e0e725b65c13f0a6a"
+            }
+        }
+    },
+    "1713937101248302:267492": {
+        "IFileManager": {
+            "path": "Files/File_1713937101248302_267492.pvr"
+        }
+    }
+}

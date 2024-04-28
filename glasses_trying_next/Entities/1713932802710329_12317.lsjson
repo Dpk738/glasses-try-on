@@ -1,0 +1,26 @@
+{
+    "1713932802710329:12317": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932802710490:12318",
+            "resources": [
+                "1713932802680427:12301",
+                "1713932802780286:12353",
+                "1713932803064433:12490",
+                "1713932803109078:12512",
+                "1713932803351695:12616"
+            ]
+        }
+    },
+    "1713932802710490:12318": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Hearts/Meshes"
+            }
+        }
+    }
+}

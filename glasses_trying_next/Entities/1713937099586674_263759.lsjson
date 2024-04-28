@@ -1,0 +1,22 @@
+{
+    "1713937099586674:263759": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713937099586817:263760",
+            "resources": [
+                "1713937099582140:263748"
+            ]
+        }
+    },
+    "1713937099586817:263760": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Fonts"
+            }
+        }
+    }
+}

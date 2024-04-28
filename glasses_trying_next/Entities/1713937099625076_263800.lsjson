@@ -1,0 +1,33 @@
+{
+    "1713937099622487:263799": {
+        "IFileManager": {
+            "path": "Files/File_1713937099622487_263799.ttf"
+        }
+    },
+    "1713937099625076:263800": {
+        "IResourceController": {
+            "name": "Lato-Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099625088:263801",
+            "fileId": "1713937099622487:263799",
+            "publicId": "1713937099630271:263813",
+            "expected_hash": "85d339d916479f729938d2911b85bf1f"
+        },
+        "IResourceManager": {
+            "uid": "1713937099625088:263801",
+            "name": "Files/File_1713937099622487_263799.ttf",
+            "flags": 1
+        }
+    },
+    "1713937099630271:263813": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Info Card [DELETE_ME]/Fonts/Lato-Bold.ttf",
+                "hash": "85d339d916479f729938d2911b85bf1f"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1713932799887874:11600": {
+        "IResourceController": {
+            "name": "Cat",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932799888133:11601",
+            "resources": [
+                "1713932799861875:11586",
+                "1713932802532677:12229"
+            ]
+        }
+    },
+    "1713932799888133:11601": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Cat"
+            }
+        }
+    }
+}

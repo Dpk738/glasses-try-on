@@ -1,0 +1,44 @@
+{
+    "1713933498343814:131646": {
+        "IFileManager": {
+            "path": "Files/File_1713933498343814_131646"
+        }
+    },
+    "1713933498354728:131647": {
+        "IResourceController": {
+            "name": "SelectNext",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713933498354801:131648",
+            "fileId": "1713933498343814:131646",
+            "originalId": "1713933498355473:131652",
+            "publicId": "1713933498362688:131653",
+            "expected_hash": "51ad58cef9a202d4ad0a8ad854873b30"
+        },
+        "IResourceManager": {
+            "uid": "1713933498354801:131648",
+            "name": "Files/File_1713933498343814_131646",
+            "flags": 1
+        }
+    },
+    "1713933498354801:131648": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713933498355473:131652": {
+        "IFileManager": {
+            "path": "Files/File_1713933498355473_131652.lsscript"
+        }
+    },
+    "1713933498362688:131653": {
+        "IResourceController": {
+            "public": {
+                "path": "SelectNext.lsscript",
+                "hash": "3ab456eeec9c4d7748f983eb559924af"
+            }
+        }
+    }
+}

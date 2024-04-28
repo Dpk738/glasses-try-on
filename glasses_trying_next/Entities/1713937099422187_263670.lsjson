@@ -1,0 +1,38 @@
+{
+    "1713937099419903:263669": {
+        "IFileManager": {
+            "path": "Files/File_1713937099419903_263669.js"
+        }
+    },
+    "1713937099422187:263670": {
+        "IResourceController": {
+            "name": "Keyword",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099422205:263671",
+            "fileId": "1713937099419903:263669",
+            "publicId": "1713937099437139:263681",
+            "expected_hash": "69be9e7962dfe91a673b07711b52565f"
+        },
+        "IResourceManager": {
+            "uid": "1713937099422205:263671",
+            "name": "Files/File_1713937099419903_263669.js",
+            "flags": 1
+        }
+    },
+    "1713937099422205:263671": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099437139:263681": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/Keyword.js",
+                "hash": "69be9e7962dfe91a673b07711b52565f"
+            }
+        }
+    }
+}

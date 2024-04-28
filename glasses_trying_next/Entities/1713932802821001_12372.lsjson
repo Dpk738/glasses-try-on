@@ -1,0 +1,115 @@
+{
+    "1713932802817622:12371": {
+        "IFileManager": {
+            "path": "Files/File_1713932802817622_12371.mesh"
+        }
+    },
+    "1713932802821001:12372": {
+        "IResourceController": {
+            "name": "Line001",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932802837814:12374",
+            "fileId": "1713932802817622:12371",
+            "publicId": "1713932802858461:12392",
+            "expected_hash": "a56edba63279804cf13570f802cfd104",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713932802837814:12374",
+            "name": "Files/File_1713932802817622_12371.mesh",
+            "flags": 1
+        }
+    },
+    "1713932802837814:12374": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4080",
+                "compressedSize": "3521",
+                "extension": "mesh",
+                "originalRAM": "4080",
+                "originalSize": "3521",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713932802850078:12391"
+        }
+    },
+    "1713932802850078:12391": {
+        "IFileManager": {
+            "path": "Files/File_1713932802850078_12391.mesh"
+        }
+    },
+    "1713932802858461:12392": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Nerd/Meshes/Line001.mesh",
+                "hash": "a56edba63279804cf13570f802cfd104"
+            }
+        }
+    }
+}

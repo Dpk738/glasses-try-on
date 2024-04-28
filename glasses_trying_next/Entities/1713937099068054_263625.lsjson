@@ -1,0 +1,17 @@
+{
+    "1713937099068054:263625": {
+        "IResourceController": {
+            "name": "VoiceML Module",
+            "type": 33,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099068018:263624"
+        },
+        "IResourceManager": {
+            "uid": "1713937099068018:263624",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

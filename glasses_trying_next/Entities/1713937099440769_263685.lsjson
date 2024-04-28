@@ -1,0 +1,38 @@
+{
+    "1713937099438495:263682": {
+        "IFileManager": {
+            "path": "Files/File_1713937099438495_263682.js"
+        }
+    },
+    "1713937099440769:263685": {
+        "IResourceController": {
+            "name": "SpeechContext",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099440780:263686",
+            "fileId": "1713937099438495:263682",
+            "publicId": "1713937099446190:263696",
+            "expected_hash": "f7338781ec344e9402c8ee1a5c2c7437"
+        },
+        "IResourceManager": {
+            "uid": "1713937099440780:263686",
+            "name": "Files/File_1713937099438495_263682.js",
+            "flags": 1
+        }
+    },
+    "1713937099440780:263686": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099446190:263696": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/SpeechContext.js",
+                "hash": "f7338781ec344e9402c8ee1a5c2c7437"
+            }
+        }
+    }
+}

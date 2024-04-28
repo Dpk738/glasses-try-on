@@ -1,0 +1,39 @@
+{
+    "1713932796102257:10416": {
+        "IFileManager": {
+            "path": "Files/File_1713932796102257_10416"
+        }
+    },
+    "1713932796109610:10417": {
+        "IResourceController": {
+            "name": "aviator_lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932796109620:10418",
+            "fileId": "1713932796102257:10416",
+            "originalId": "1713932796199509:10424",
+            "publicId": "1713932796585795:10433",
+            "expected_hash": "4de5e7763dada0d0fcfb7b077d076277"
+        },
+        "IResourceManager": {
+            "uid": "1713932796109620:10418",
+            "name": "Files/File_1713932796102257_10416",
+            "flags": 1
+        }
+    },
+    "1713932796199509:10424": {
+        "IFileManager": {
+            "path": "Files/File_1713932796199509_10424.lsmat"
+        }
+    },
+    "1713932796585795:10433": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Aviator/aviator_lens_material.lsmat",
+                "hash": "6d098b7bd6190ea3b3a5e24590869d39"
+            }
+        }
+    }
+}

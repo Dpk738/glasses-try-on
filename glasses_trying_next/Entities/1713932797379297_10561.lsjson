@@ -1,0 +1,39 @@
+{
+    "1713932797376482:10560": {
+        "IFileManager": {
+            "path": "Files/File_1713932797376482_10560"
+        }
+    },
+    "1713932797379297:10561": {
+        "IResourceController": {
+            "name": "DropR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932797379304:10562",
+            "fileId": "1713932797376482:10560",
+            "originalId": "1713932797411157:10568",
+            "publicId": "1713932797611620:10575",
+            "expected_hash": "e5822ec04b78b2d2302452f77d5f3d73"
+        },
+        "IResourceManager": {
+            "uid": "1713932797379304:10562",
+            "name": "Files/File_1713932797376482_10560",
+            "flags": 1
+        }
+    },
+    "1713932797411157:10568": {
+        "IFileManager": {
+            "path": "Files/File_1713932797411157_10568.lsmat"
+        }
+    },
+    "1713932797611620:10575": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Funky/DropR.lsmat",
+                "hash": "88862321607e0947e10b0d660d1661d3"
+            }
+        }
+    }
+}

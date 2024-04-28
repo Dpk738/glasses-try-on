@@ -1,0 +1,25 @@
+{
+    "1713932793933705:9889": {
+        "IResourceController": {
+            "name": "Glasses Pack Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932793934067:9890",
+            "resources": [
+                "1713932793987336:9891",
+                "1713932793993997:9902",
+                "1713932794307393:9921",
+                "1713932795786461:10338"
+            ]
+        }
+    },
+    "1713932793934067:9890": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources"
+            }
+        }
+    }
+}

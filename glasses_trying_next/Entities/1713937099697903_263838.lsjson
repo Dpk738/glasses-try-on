@@ -1,0 +1,39 @@
+{
+    "1713937099696513:263837": {
+        "IFileManager": {
+            "path": "Files/File_1713937099696513_263837"
+        }
+    },
+    "1713937099697903:263838": {
+        "IResourceController": {
+            "name": "info_card",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099697908:263839",
+            "fileId": "1713937099696513:263837",
+            "originalId": "1713937099711025:263845",
+            "publicId": "1713937099798099:263854",
+            "expected_hash": "be5b60c6e7c2a11eb848933f983cda17"
+        },
+        "IResourceManager": {
+            "uid": "1713937099697908:263839",
+            "name": "Files/File_1713937099696513_263837",
+            "flags": 1
+        }
+    },
+    "1713937099711025:263845": {
+        "IFileManager": {
+            "path": "Files/File_1713937099711025_263845.lsmat"
+        }
+    },
+    "1713937099798099:263854": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Info Card [DELETE_ME]/Materials/info_card.lsmat",
+                "hash": "6184cd47b66eb2284299f32ac6743636"
+            }
+        }
+    }
+}

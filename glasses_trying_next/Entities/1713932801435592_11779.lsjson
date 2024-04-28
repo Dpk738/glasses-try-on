@@ -1,0 +1,39 @@
+{
+    "1713932801433152:11778": {
+        "IFileManager": {
+            "path": "Files/File_1713932801433152_11778"
+        }
+    },
+    "1713932801435592:11779": {
+        "IResourceController": {
+            "name": "round_lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932801435598:11780",
+            "fileId": "1713932801433152:11778",
+            "originalId": "1713932801458569:11784",
+            "publicId": "1713932801670830:12116",
+            "expected_hash": "e5822ec04b78b2d2302452f77d5f3d73"
+        },
+        "IResourceManager": {
+            "uid": "1713932801435598:11780",
+            "name": "Files/File_1713932801433152_11778",
+            "flags": 1
+        }
+    },
+    "1713932801458569:11784": {
+        "IFileManager": {
+            "path": "Files/File_1713932801458569_11784.lsmat"
+        }
+    },
+    "1713932801670830:12116": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Round/round_lens_material.lsmat",
+                "hash": "4445c26d1a91cc1febd2360962fbfc54"
+            }
+        }
+    }
+}

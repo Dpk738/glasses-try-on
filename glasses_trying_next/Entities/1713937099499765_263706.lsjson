@@ -1,0 +1,39 @@
+{
+    "1713937099498207:263705": {
+        "IFileManager": {
+            "path": "Files/File_1713937099498207_263705"
+        }
+    },
+    "1713937099499765:263706": {
+        "IResourceController": {
+            "name": "Graph Transparent",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099500003:263707",
+            "fileId": "1713937099498207:263705",
+            "originalId": "1713937099512313:263713",
+            "publicId": "1713937099563970:263722",
+            "expected_hash": "3b32eebd2a139fad2a3ffaee97425ee0"
+        },
+        "IResourceManager": {
+            "uid": "1713937099500003:263707",
+            "name": "Files/File_1713937099498207_263705",
+            "flags": 1
+        }
+    },
+    "1713937099512313:263713": {
+        "IFileManager": {
+            "path": "Files/File_1713937099512313_263713.lsmat"
+        }
+    },
+    "1713937099563970:263722": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Materials/Graph Transparent.lsmat",
+                "hash": "bc45918b39988bdfe8eaa43c76af0fbc"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1713932798975922:11171": {
+        "IFileManager": {
+            "path": "Files/File_1713932798975922_11171"
+        }
+    },
+    "1713932798978533:11172": {
+        "IResourceController": {
+            "name": "aviator_screw",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932798978539:11173",
+            "fileId": "1713932798975922:11171",
+            "originalId": "1713932799001425:11179",
+            "publicId": "1713932799198556:11186",
+            "expected_hash": "4de5e7763dada0d0fcfb7b077d076277"
+        },
+        "IResourceManager": {
+            "uid": "1713932798978539:11173",
+            "name": "Files/File_1713932798975922_11171",
+            "flags": 1
+        }
+    },
+    "1713932799001425:11179": {
+        "IFileManager": {
+            "path": "Files/File_1713932799001425_11179.lsmat"
+        }
+    },
+    "1713932799198556:11186": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Aviator/aviator_screw.lsmat",
+                "hash": "d5804710e31589351cbde1353aac74ec"
+            }
+        }
+    }
+}

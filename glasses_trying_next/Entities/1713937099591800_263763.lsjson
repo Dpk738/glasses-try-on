@@ -1,0 +1,38 @@
+{
+    "1713937099589766:263762": {
+        "IFileManager": {
+            "path": "Files/File_1713937099589766_263762.js"
+        }
+    },
+    "1713937099591800:263763": {
+        "IResourceController": {
+            "name": "VoiceMLLanguage",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099591812:263764",
+            "fileId": "1713937099589766:263762",
+            "publicId": "1713937099597039:263774",
+            "expected_hash": "30b2121f86bc229aa681c63d38ae78ba"
+        },
+        "IResourceManager": {
+            "uid": "1713937099591812:263764",
+            "name": "Files/File_1713937099589766_263762.js",
+            "flags": 1
+        }
+    },
+    "1713937099591812:263764": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1713937099597039:263774": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Scripts/VoiceMLLanguage.js",
+                "hash": "30b2121f86bc229aa681c63d38ae78ba"
+            }
+        }
+    }
+}

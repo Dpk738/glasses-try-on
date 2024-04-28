@@ -1,0 +1,25 @@
+{
+    "1713932801288107:11755": {
+        "IResourceController": {
+            "name": "Round",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932801288389:11756",
+            "resources": [
+                "1713932801069746:11741",
+                "1713932801435592:11779",
+                "1713932801832443:12138",
+                "1713932802271523:12196"
+            ]
+        }
+    },
+    "1713932801288389:11756": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Round"
+            }
+        }
+    }
+}

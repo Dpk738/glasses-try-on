@@ -1,0 +1,25 @@
+{
+    "1713932793995823:9904": {
+        "IResourceController": {
+            "name": "Funky",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932793996101:9905",
+            "resources": [
+                "1713932793993606:9898",
+                "1713932797670093:10601",
+                "1713932798465535:11069",
+                "1713932800934666:11711"
+            ]
+        }
+    },
+    "1713932793996101:9905": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Animations/Funky"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1713932796579959:10431": {
+        "IResourceController": {
+            "name": "Aviator",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932796580457:10432",
+            "resources": [
+                "1713932796109610:10417",
+                "1713932798665109:11143",
+                "1713932798978533:11172",
+                "1713932800357064:11658"
+            ]
+        }
+    },
+    "1713932796580457:10432": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Aviator"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "1713932803348418:12615": {
+        "IFileManager": {
+            "path": "Files/File_1713932803348418_12615.mesh"
+        }
+    },
+    "1713932803351695:12616": {
+        "IResourceController": {
+            "name": "hearts_lens",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713932803368123:12618",
+            "fileId": "1713932803348418:12615",
+            "publicId": "1713932803383351:12632",
+            "expected_hash": "70962bd370d1407de54f1a3271308265",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1713932803368123:12618",
+            "name": "Files/File_1713932803348418_12615.mesh",
+            "flags": 1
+        }
+    },
+    "1713932803368123:12618": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4296",
+                "compressedSize": "3795",
+                "extension": "mesh",
+                "originalRAM": "4296",
+                "originalSize": "3795",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1713932803375947:12631"
+        }
+    },
+    "1713932803375947:12631": {
+        "IFileManager": {
+            "path": "Files/File_1713932803375947_12631.mesh"
+        }
+    },
+    "1713932803383351:12632": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Hearts/Meshes/hearts_lens.mesh",
+                "hash": "70962bd370d1407de54f1a3271308265"
+            }
+        }
+    }
+}

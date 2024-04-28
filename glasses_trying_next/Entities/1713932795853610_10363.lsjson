@@ -1,0 +1,23 @@
+{
+    "1713932795853610:10363": {
+        "IResourceController": {
+            "name": "FrameParams",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1713932795854078:10364",
+            "resources": [
+                "1713932795824099:10349",
+                "1713932795887799:10371"
+            ]
+        }
+    },
+    "1713932795854078:10364": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/FrameParams"
+            }
+        }
+    }
+}

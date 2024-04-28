@@ -1,0 +1,33 @@
+{
+    "1713937099578967:263747": {
+        "IFileManager": {
+            "path": "Files/File_1713937099578967_263747.ttf"
+        }
+    },
+    "1713937099582140:263748": {
+        "IResourceController": {
+            "name": "Urbanist-VariableFont_wght",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1713937099582155:263749",
+            "fileId": "1713937099578967:263747",
+            "publicId": "1713937099588284:263761",
+            "expected_hash": "e4c0b55cfa430ac1b91f98460e43e55f"
+        },
+        "IResourceManager": {
+            "uid": "1713937099582155:263749",
+            "name": "Files/File_1713937099578967_263747.ttf",
+            "flags": 1
+        }
+    },
+    "1713937099588284:263761": {
+        "IResourceController": {
+            "public": {
+                "path": "System Voice Command Resources/Fonts/Urbanist-VariableFont_wght.ttf",
+                "hash": "e4c0b55cfa430ac1b91f98460e43e55f"
+            }
+        }
+    }
+}
